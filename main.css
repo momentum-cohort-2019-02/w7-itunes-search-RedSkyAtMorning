@@ -1,0 +1,27 @@
+/* I owe AJ something for this */
+
+.container {
+    border: 2px solid rgb(139,3,3);
+}
+
+header {
+    border: 2px solid black;
+}
+
+.search { border: 2px solid #5d0580;
+}
+
+#search-bar {}
+#search-event {}
+
+.search-bar { 
+    border-radius: 30px};
+
+.select {
+    border-radius: 30px;
+}
+
+.polay {
+    border: 2px solid #5d0580;
+}
+
